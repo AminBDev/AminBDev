@@ -28,21 +28,21 @@
 
 
 
-<a href="https://t.me/amin8615" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="52" height="40" alt="telegram logo"  />
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
-  <a href="https://t.me/amin8615" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
 
-  <a href="https://t.me/amin8615" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
 
-  <a href="https://t.me/amin8615" target="_blank">
+  <a href="https://github.com/AminBDev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
