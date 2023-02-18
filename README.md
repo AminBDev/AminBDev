@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm  Amin Bakhshi</h1>
 
 ###
@@ -16,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://dart.dev" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
 </div>
 
 ###
@@ -26,10 +25,10 @@
 ###
 
 <div align="left">
-  <img src="https://flutter.dev/" height="40" width="52" alt="flutter logo"  />
-  <img src="https://code.visualstudio.com/" height="40" width="52" alt="vscode logo"  />
-  <img src="https://developer.android.com/" height="40" width="52" alt="android logo"  />
-  <img src="https://github.com/aminbdev" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
 
 ###
