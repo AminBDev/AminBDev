@@ -29,7 +29,7 @@
 
 
 <a href="https://t.me/amin8615" target="_blank">
-    <img src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" width="52" height="40" alt="telegram logo"  />
   </a>
 
   <a href="https://t.me/amin8615" target="_blank">
