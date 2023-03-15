@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">I'm a student with a passion for mobile programming.<br><br><br>I'm particularly interested in using Flutter to build beautiful and functional mobile apps.<br><br><br>I spend much of my free time coding and watching tutorials to improve my skills.<br><br><br>I enjoy experimenting with new features and techniques to create innovative and responsive user interfaces.<br><br><br>I love the challenge of solving complex programming problems, and I'm always looking for new projects to work on.<br><br><br>I'm excited to continue honing my skills in mobile programming, and I'm always on the lookout for new learning opportunities.<br><br><br>If you have any suggestions for projects or tutorials, or if you'd like to collaborate on a project, please don't hesitate to get in touch.<br><br><br>I'm always eager to connect with other mobile programmers and learn from their experiences.<br><br><br>Thank you for taking the time to read my bio.<br><br><br>I look forward to connecting with you!</p>
+<p align="left">As a student with a passion for mobile programming, I enjoy using Flutter to build beautiful and functional mobile apps. I'm always experimenting with new features and techniques to create innovative and responsive user interfaces. I love the challenge of solving complex programming problems, and I'm always looking for new projects to work on. If you have any suggestions for projects or tutorials, or if you'd like to collaborate on a project, please don't hesitate to get in touch. Thank you for reading my bio!</p>
+
 
 ###
 
