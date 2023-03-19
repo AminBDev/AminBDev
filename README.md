@@ -69,7 +69,7 @@
 
 <div align="left">
   <a href="bakhshim178@gmail.com" target="_blank">
-    <img src="https://www.uplooder.net/img/image/50/8be28c6512c6488b348e6c983a676795/result.png" width="65" height="75" alt="gmail logo"  />
+    <img src="https://www.uplooder.net/img/image/50/8be28c6512c6488b348e6c983a676795/result.png" width="85" height="85" alt="gmail logo"  />
   </a>
   <a href="https://t.me/amin8615" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="64" height="64" alt="telegram logo"  />
