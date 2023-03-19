@@ -4,12 +4,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">As a student with a passion for mobile programming, I enjoy using Flutter to build beautiful and functional mobile apps. I'm always experimenting with new features and techniques to create innovative and responsive user interfaces. I love the challenge of solving complex programming problems, and I'm always looking for new projects to work on. If you have any suggestions for projects or tutorials, or if you'd like to collaborate on a project, please don't hesitate to get in touch. Thank you for reading my bio!</p>
-
-
-###
 
 <h2 align="left">Language</h2>
 
