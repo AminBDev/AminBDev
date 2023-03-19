@@ -19,7 +19,7 @@
   
 
 <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="64" height="64" alt="telegram logo"  />
   </a>
 
 
@@ -36,21 +36,21 @@
 
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
   <a href="" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
 
   <a href="https://github.com/AminBDev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
 
