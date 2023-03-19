@@ -68,7 +68,7 @@
 ###
 
 <div align="left">
-  <a href="bakhshim178@gmail.com" target="_blank">
+  <a href="https://discordapp.com/users/.980719917584236555" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="64" height="64" alt="gmail logo"  />
   </a>
   <a href="https://t.me/amin8615" target="_blank">
