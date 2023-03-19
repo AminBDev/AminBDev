@@ -76,4 +76,10 @@
   </a>
 </div>
 
+
+<a href="https://t.me/amin8615" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="64" height="64" alt="telegram logo"  />
+  </a>
+</div>
+
 ###
