@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="64" alt="gmail logo"  />
   </a>
   <a href="https://t.me/amin8615" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="64" height="64" alt="telegram logo"  />
+    <img src="https://www.uplooder.net/img/image/50/8be28c6512c6488b348e6c983a676795/result.png" width="64" height="64" alt="telegram logo"  />
   </a>
 </div>
 
