@@ -19,7 +19,7 @@
   
 
 <a href="https://dart.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 
 
