@@ -36,21 +36,21 @@
 
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="64" height="64" alt="telegram logo"  />
   </a>
 
   <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="64" height="64" alt="telegram logo"  />
   </a>
 
 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="64" height="64" alt="telegram logo"  />
   </a>
 
 
   <a href="https://github.com/AminBDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="64" height="64" alt="telegram logo"  />
   </a>
 
 
@@ -65,10 +65,10 @@
 
 <div align="left">
   <a href="bakhshim178@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="64" alt="gmail logo"  />
   </a>
   <a href="https://t.me/amin8615" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="64" height="64" alt="telegram logo"  />
   </a>
 </div>
 
