@@ -74,7 +74,17 @@
 <a href="https://www.instagram.com/mohammadamin.bakhshi" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="64" height="64" alt="telegram logo"  />
   </a>
-  <a href="https://coffeebede.com/aminbdev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+  
+  <div align="left">
+  <a href="https://discordapp.com/users/.980719917584236555" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="64" height="64" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/amin8615" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="64" height="64" alt="telegram logo"  />
+  </a>
+</div>
+
+  
 </div>
 
 ###
