@@ -77,7 +77,7 @@
   
   
 <h2 align="left">Support</h2>
-<a href="https://coffeebede.com/aminbdev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"width="160" height="60" /></a>
+<a href="https://coffeebede.com/aminbdev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"width="180" height="80" /></a>
   
 </div>
 
