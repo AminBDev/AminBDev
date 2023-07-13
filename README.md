@@ -53,9 +53,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="64" height="64" alt="telegram logo"  />
   </a>
   
-  <a href="https://github.com/AminBDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
+
 
 
 </div>
