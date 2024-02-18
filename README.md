@@ -78,7 +78,7 @@
 </div>
 
 
-<a href="https://www.instagram.com/mohammadamin.bakhshi" target="_blank">
+<a href="https://www.instagram.com/aminbdev" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="64" height="64" alt="telegram logo"  />
   </a>
   
