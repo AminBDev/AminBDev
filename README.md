@@ -1,90 +1,116 @@
-<h1 align="left">
-  
-  Hi 👋, I'm  Amin Bakhshi
+<div align="center">
 
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Mohammad%20Amin%20Bakhshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Mobile%20Engineer&descAlignY=58" />
 
-###
-
-
-
-
-<h2 align="left">Language</h2>
-
-###
-
-<div align="left">
-  
-
-<a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Flutter+Developer;Building+Scalable+Mobile+Apps;Clean+Architecture+Enthusiast;Realtime+%26+Native+Integrations;Media+Driven+Experiences" />
 
 </div>
 
-###
+---
 
-<h2 align="left">Tools & framework</h2>
+# 👋 About Me
 
-###
+```dart
+class Developer {
+  final String name = "Mohammad Amin Bakhshi";
 
-<div align="left">
+  final String role =
+      "Flutter Developer & Mobile Engineer";
 
+  final List<String> expertise = [
+    "Flutter",
+    "Clean Architecture",
+    "Native Integrations",
+    "Realtime Systems",
+    "Media & Video Workflows",
+    "Scalable Applications",
+  ];
 
+  final List<String> stateManagement = [
+    "Riverpod",
+    "Bloc",
+    "GetX",
+    "Provider",
+  ];
+}
+```
 
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
+💡 Passionate about building smooth, scalable and production-ready mobile applications with Flutter.
 
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
+---
 
+# ⚒️ Tech Stack
 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
+<div align="center">
 
-
-  <a href="https://github.com/AminBDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
-
-  
-  
-  <a href="https://github.com/AminBDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
-  
-
-
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,swift,androidstudio,vscode,git,github,figma&theme=dark" />
 
 </div>
 
-###
+---
 
-<h2 align="left">Contact Me</h2>
+# 🧠 Architecture & Development
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://discordapp.com/users/.980719917584236555" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="64" height="64" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/aminbdev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="64" height="64" alt="telegram logo"  />
-  </a>
+<img src="https://img.shields.io/badge/Clean_Architecture-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+
+<img src="https://img.shields.io/badge/Feature_Based-0D1117?style=for-the-badge&logo=flutter&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Riverpod-0D1117?style=for-the-badge&logo=dart&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Bloc-0D1117?style=for-the-badge&logo=flutter&logoColor=8A2BE2"/>
+
+<img src="https://img.shields.io/badge/GetX-0D1117?style=for-the-badge&logo=flutter&logoColor=00D2B8"/>
+
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+
+<img src="https://img.shields.io/badge/WebSocket-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
 </div>
 
+---
 
-<a href="https://www.instagram.com/aminbdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="64" height="64" alt="telegram logo"  />
-  </a>
-  
-  
+# 📈 GitHub Analytics
 
-  
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AminBDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AminBDev&theme=tokyonight&hide_border=true&background=00000000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminBDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
 </div>
 
-###
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://t.me/aminbdev">
+  <img src="https://skillicons.dev/icons?i=telegram" height="50" />
+</a>
+
+<a href="https://github.com/AminBDev">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="mailto:bakhshiamin178@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AminBDev&style=for-the-badge&color=blueviolet" />
+
+### 💙 Crafting high-quality mobile experiences with Flutter
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24" />
